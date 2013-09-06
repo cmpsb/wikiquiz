@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug  5 2013
-Script to provide questions from random wiki articles to drive a quiz style game.
+Simple script to naively provide questions from random wiki articles to drive a quiz style game.
 TODO://....Consider 'Began' split word...
 
 @author: ian
+gooddeed89@gmail.com
 """
 
 import urllib2

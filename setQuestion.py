@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 29 2013
+Designed to format question and answer provided from getQuestion and allow comparison to user input.
 
 @author: ian
+gooddeed89@gmail.com
 """
 
 import getQuestion

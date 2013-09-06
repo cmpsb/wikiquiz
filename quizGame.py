@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 29 2013
+Short quiz game to drive getQuestion and setQuestion Python files.
+Demonstrates retrieving and forming a question naively from wikipedia articles.
+
+Replicates a simple method that might be used to reward correct answers.
+Designed to be replaced with a functioning quiz game to keep track of correct answers,
+player scores, set questions etc.
 
 @author: ian
+gooddeed89@gmail.com
 """
 
 import setQuestion
